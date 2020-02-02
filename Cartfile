@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" ~> 3.0
+github "dybs/LoopKit" "pump-sim-timer-master"
 github "LoopKit/MKRingProgressView" "appex-safe"
